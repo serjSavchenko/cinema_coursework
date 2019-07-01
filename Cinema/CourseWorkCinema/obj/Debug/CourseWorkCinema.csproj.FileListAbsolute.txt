@@ -1,0 +1,15 @@
+D:\repos\Cinema\CourseWorkCinema\bin\Debug\CourseWorkCinema.exe.config
+D:\repos\Cinema\CourseWorkCinema\bin\Debug\CourseWorkCinema.exe
+D:\repos\Cinema\CourseWorkCinema\bin\Debug\CourseWorkCinema.pdb
+D:\repos\Cinema\CourseWorkCinema\bin\Debug\MySql.Data.dll
+D:\repos\Cinema\CourseWorkCinema\bin\Debug\MySql.Data.Entity.dll
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.csprojAssemblyReference.cache
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.AddTicket.resources
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.MainForm.resources
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.Properties.Resources.resources
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.csproj.GenerateResource.cache
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.csproj.CoreCompileInputs.cache
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.csproj.CopyComplete
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.exe
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.pdb
+D:\repos\Cinema\CourseWorkCinema\obj\Debug\CourseWorkCinema.ViewFilms.resources
